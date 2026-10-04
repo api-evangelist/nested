@@ -42,7 +42,7 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - PropTech
 - Estate Agency
 - Property
@@ -54,6 +54,7 @@ tags_raw:
 - Estate Agency
 - Property
 - United Kingdom
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
